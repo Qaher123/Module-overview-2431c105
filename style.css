@@ -1,0 +1,148 @@
+.dot1{
+  position: fixed;
+  left: 45%;
+  top: 5%;
+}
+.dot2{
+  position: fixed;
+  left: 45%;
+  top: 24.5%;
+}
+.rondjesgroen{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: limegreen;
+}
+.grijzerondjes{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: white;
+  border-style: solid;
+  border-color: grey;
+  border-width: thick;
+}
+.grey1{
+  position: fixed;
+  left: 44.7%;
+  top: 44%;
+}
+.grey2{
+  position: fixed;
+  left: 25%;
+  top:80%;
+}
+.grey3{
+  position: fixed;
+  right:30%;
+  top:80%;
+}
+.vl{
+  position: fixed;
+  left: 47.5%;
+  top: 15.25%;
+}
+.lijn{
+  border-left: 6px solid #b3ffb3 ;
+  height: 90px;
+}
+.lijn2{
+  position: fixed;
+  left: 47.5%;
+  top: 34.7%;
+}
+.grijzelijn{
+  border-left: 6px solid lightgrey ;
+  height: 90px;
+}
+.shuin{
+  border-left: 6px solid lightgrey;
+  height: 420px;
+  position: absolute;
+  transform: rotate(45deg);
+  left: 37%;
+  top: 44%;
+}
+.schuin2{
+  border-left: 6px solid lightgrey;
+  height: 420px;
+  position: absolute;
+  transform: rotate(135deg);
+  left: 57.7%;
+  top: 44%;
+}
+.rechthoek1{
+  position: fixed;
+  left: 42.5%;
+  top: 16.7%;
+  padding-left:25px;
+}
+.greenbox{
+  height: 30px;
+  width: 170px;
+  background-color: limegreen;
+  border-radius: 5px;
+}
+.rechthoek2{
+  position: fixed;
+  left: 42.5%;
+  top: 36%;
+  padding-left: 25px;
+}
+.greyrectangle{
+  height: 30px;
+  width: 150px;
+  background-color: grey;
+  border-radius: 5px;
+}
+.greybox1{
+  position: fixed;
+  left: 42.5%;
+  top: 56%;
+  padding-left:50px;
+}
+.greybox2{
+  position: fixed;
+  left: 22.5%;
+  top: 92%;
+  padding-left: 30px;
+}
+.greybox3{
+  position: fixed;
+  left: 63%;
+  top: 92%;
+  padding-left: 50px;
+}
+.pic1{
+  position: fixed;
+  left: 46.5%;
+  top: 47%
+}
+.pic2{
+  position: fixed;
+  left: 26.8%;
+  top: 83%;
+}
+.pic3{
+  position: fixed;
+  left: 66.2%;
+  top: 83%;
+}
+body{
+  color: white;
+}
+.vinkjes1{
+  color: white;
+  position: absolute;
+  top: 5%;
+  left: 47%;
+  z-index: 10
+}
+.vinkjes2{
+  z-index: 10;
+  color: white;
+  position: absolute;
+  top: 25%;
+  left: 47%
+}
